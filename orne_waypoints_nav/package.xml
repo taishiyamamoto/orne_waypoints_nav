@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>orne_waypoints_nav</name>
+  <version>1.0.0</version>
+  <description>
+    orne_waypoints_nav (meta package)
+  </description>
+  <license>BSD</license>
+  <author email="ambitious0816@gmail.com">taishiyamamoto</author>
+  <maintainer email="ambitious0816@gmail.com">taishiyamamoto</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export><metapackage/></export>
+</package>
